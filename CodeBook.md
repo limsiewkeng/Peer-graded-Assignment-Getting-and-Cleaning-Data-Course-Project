@@ -1,4 +1,5 @@
-run_analysis.R variables:
+run_analysis.R variables
+
 
 Data set to read in data files:
 
@@ -20,12 +21,19 @@ activityLabels - activity_labels.txt
 
 
 Other data set:
+
 mrg_train - data set for merged training 
+
 mrg_test - data set for merged test 
+
 setAllInOne - data set for mergered training and test 
+
 mean_and_std - data set with only measurements on the mean and standard deviation for each measurement
+
 TidySet - independent tidy data set with the average of each variable for each activity and each subject
 
 
+
 Vector:
+
 mean_and_std - vector for defining ID, mean and standard deviation
