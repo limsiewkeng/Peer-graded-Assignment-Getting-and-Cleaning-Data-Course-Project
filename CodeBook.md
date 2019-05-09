@@ -1,13 +1,21 @@
 run_analysis.R variables:
 
 Data set to read in data files:
+
 x_train - X_train.txt
+
 y_train - y_train.txt
+
 subject_train <- subject_train.txt
+
 x_test - X_test.txt
+
 y_test - y_test.txt
+
 subject_test - subject_test.txt
+
 features - features.txt
+
 activityLabels - activity_labels.txt
 
 
