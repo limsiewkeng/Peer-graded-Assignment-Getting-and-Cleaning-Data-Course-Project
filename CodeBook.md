@@ -20,6 +20,8 @@ features - features.txt
 activityLabels - activity_labels.txt
 
 
+
+
 Other data set:
 
 mrg_train - data set for merged training 
@@ -31,6 +33,8 @@ setAllInOne - data set for mergered training and test
 mean_and_std - data set with only measurements on the mean and standard deviation for each measurement
 
 TidySet - independent tidy data set with the average of each variable for each activity and each subject
+
+
 
 
 
